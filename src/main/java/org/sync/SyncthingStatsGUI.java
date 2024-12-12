@@ -32,6 +32,8 @@ public class SyncthingStatsGUI {
         SwingUtilities.invokeLater(SyncthingStatsGUI::createAndShowGUI);
     }
 
+
+
     private static void createAndShowGUI() {
         // Create the main frame
         JFrame frame = new JFrame("Syncthing Stats");

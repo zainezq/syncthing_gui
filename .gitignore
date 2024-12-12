@@ -11,7 +11,8 @@ target/
 *.iws
 *.iml
 *.ipr
-./src/main/resources/
+resources/
+
 ### Eclipse ###
 .apt_generated
 .classpath
