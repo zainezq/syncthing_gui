@@ -1,3 +1,0 @@
-curl -X GET -H "X-API-Key: dJGKZAjH4wYFuuq5rY3DV2QyW7kxptr2" http://127.0.0.1:8384/rest/system/status
-
-dJGKZAjH4wYFuuq5rY3DV2QyW7kxptr2
